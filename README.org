@@ -9,7 +9,7 @@
 <div id="the whole thing" style="overflow: hidden;">
 <div style="float: left; padding: 5px"> <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a></div>
 <div style="float: left; padding: 5px"><a href="https://github.com/dennyzhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a></div>
-<div style="float: left; padding: 5px"><a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="https://slack.dennyzhang.com/badge.svg" alt="slack"/></a></div>
+<div style="float: left; padding: 5px"><a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack"/></a></div>
 </div>
 
 <br/><br/>
@@ -7474,3 +7474,5 @@ https://developer.couchbase.com/documentation/server/current/architecture/high-a
 https://developer.couchbase.com/documentation/server/current/architecture/architecture-intro.html
 https://developer.couchbase.com/documentation/server/current/architecture/core-data-access-buckets.html
 * TODO [#A] cheatsheet https://www.expeditedssl.com/aws-in-plain-english :noexport:
+* TODO RDS download snapshot to local
+https://stackoverflow.com/questions/14916899/download-rds-snapshot
